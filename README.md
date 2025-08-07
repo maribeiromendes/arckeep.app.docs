@@ -5,21 +5,33 @@
   <img src="./arckeep.png" alt="ArcKeep Logo" width="200" />
 </p>
 
-ArcKeep is a powerful solution designed to help individuals and organizations efficiently manage, organize, and safeguard their digital assets and documentation.
+ArcKeep is a web application designed for authors to
+  manage book series. It helps them track continuity,
+  including characters, locations, scenes, timelines, and
+  relationships across their books.
 
 ### Key Features
-- Secure storage and organization of documents
-- Easy access and retrieval
-- Collaboration tools for teams
-- Version control and history tracking
-- User-friendly interface
+
+   * Hierarchical Content Structure: Organizes your work
+     from a high-level series down to individual scenes
+     (Series → Books → Chapters → Scenes).
+   * Character Tracking: Manages character details,
+     including their status, relationships with other
+     characters, and appearances throughout the timeline.        
+   * Location Management: Organizes locations hierarchically     
+     (e.g., from a city down to a specific room).
+   * Timeline Events: Allows for the creation of custom
+     events with validation to ensure continuity.
+   * Relationship Mapping: Defines and tracks bi-directional     
+     relationships between characters, including the type and    
+      status of their connection.
 
 ### Who is ArcKeep for?
-ArcKeep is ideal for:
-- Businesses seeking reliable document management
-- Teams collaborating on shared resources
-- Individuals wanting to keep personal records organized and secure
+ArcKeep is for authors, especially those who write book
+  series and need a tool to manage complex narratives and
+  maintain continuity across multiple chapters and books.
+
 
 ---
 
-👉 [Getting Started](../arckeep.app/docs/GettingStarted.md)
+👉 [Visit our User Guide to get started](https://github.com/maribeiromendes/arckeep.app.docs/wiki)
